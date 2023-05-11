@@ -16,7 +16,7 @@ public class Question2 {
                 g.drawPolygon(new int[] {240,240,360}, new int[] {240,360,360}, 3);
 
                 g.setColor(Color.RED);
-                g.fillRect(150, 20, 190,130);
+                g.fillRect(151, 21, 189,129);
                 g.setColor(Color.BLUE);
                 g.fillOval(350,20,200,200);
                 g.setColor(Color.GREEN);
