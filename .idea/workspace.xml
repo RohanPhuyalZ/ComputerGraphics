@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ae8022-66b1-43d0-8769-1419594730a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CG/RamailoGadi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CG/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Lab_Q3Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Question3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Question2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +40,47 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nccs/IdeaProjects/JavaII&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RamailoGadi (3)">
-    <configuration name="RamailoGadi (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Lab_Q3Animation">
+    <configuration name="Lab_Q3Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Lab_Q3Animation" />
+      <module name="ComputerGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question3" />
+      <module name="ComputerGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question3" />
+      <module name="ComputerGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RamailoGadi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CG.RamailoGadi" />
       <module name="ComputerGraphics" />
       <extension name="coverage">
@@ -69,52 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RamailoGadi (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CG.RamailoGadi" />
-      <module name="ComputerGraphics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RamailoGadi (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CG.RamailoGadi" />
-      <module name="ComputerGraphics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RamailoGadi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CG.RamailoGadi" />
-      <module name="ComputerGraphics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_Q3Animation" />
+        <item itemvalue="Application.Question3" />
+        <item itemvalue="Application.Question3 (1)" />
+        <item itemvalue="Application.RamailoGadi (1)" />
         <item itemvalue="Application.RamailoGadi (3)" />
-        <item itemvalue="Application.RamailoGadi (5)" />
-        <item itemvalue="Application.RamailoGadi (4)" />
-        <item itemvalue="Application.RamailoGadi" />
-        <item itemvalue="Application.RamailoGadi (2)" />
       </list>
     </recent_temporary>
   </component>
