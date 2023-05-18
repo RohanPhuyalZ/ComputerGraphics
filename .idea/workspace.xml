@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ae8022-66b1-43d0-8769-1419594730a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Lab_Q3Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Question5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nccs/IdeaProjects/JavaII&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab_Q3Animation">
+  <component name="RunManager" selected="Application.Question5">
     <configuration name="Lab_Q3Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment.Lab_Q3Animation" />
       <module name="ComputerGraphics" />
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RamailoGadi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CG.RamailoGadi" />
+    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question5" />
       <module name="ComputerGraphics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CG.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RamailoGadi (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RamailoGadi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CG.RamailoGadi" />
       <module name="ComputerGraphics" />
       <extension name="coverage">
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question5" />
         <item itemvalue="Application.Lab_Q3Animation" />
         <item itemvalue="Application.Question3" />
         <item itemvalue="Application.Question3 (1)" />
         <item itemvalue="Application.RamailoGadi (1)" />
-        <item itemvalue="Application.RamailoGadi (3)" />
       </list>
     </recent_temporary>
   </component>
