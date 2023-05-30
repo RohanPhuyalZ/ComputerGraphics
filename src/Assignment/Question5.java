@@ -25,8 +25,8 @@ public class Question5 extends JPanel {
     }
 
     @Override
-    protected void paintComponent(Graphics g) {
-        super.paintComponent(g);
+    public void paint(Graphics g) {
+        super.paint(g);
         setBackground(Color.WHITE);
 
         int dx = x2 - x1;
