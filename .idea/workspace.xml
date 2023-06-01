@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07ae8022-66b1-43d0-8769-1419594730a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment/Question14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CG/LineDrawingApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +40,22 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nccs/IdeaProjects/JavaII&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question8">
-    <configuration name="Lab_Q3Animation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.Lab_Q3Animation" />
+  <component name="RunManager" selected="Application.Question14 (2)">
+    <configuration name="LineDrawingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CG.LineDrawingApp" />
+      <module name="ComputerGraphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question14 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question14" />
       <module name="ComputerGraphics" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.Question5" />
+    <configuration name="Question14 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question14" />
       <module name="ComputerGraphics" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.Question6" />
+    <configuration name="Question14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment.Question14" />
       <module name="ComputerGraphics" />
       <extension name="coverage">
         <pattern>
@@ -79,13 +89,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question7" />
-      <module name="ComputerGraphics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question14 (2)" />
+        <item itemvalue="Application.Question14" />
+        <item itemvalue="Application.LineDrawingApp" />
+        <item itemvalue="Application.Question14 (1)" />
         <item itemvalue="Application.Question8" />
-        <item itemvalue="Application.Question7" />
-        <item itemvalue="Application.Question6" />
-        <item itemvalue="Application.Question5" />
-        <item itemvalue="Application.Lab_Q3Animation" />
       </list>
     </recent_temporary>
   </component>
